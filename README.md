@@ -5,8 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="mailto:Saranshjain840@gmail.com">📧 Email</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">💼 LinkedIn</a>
+  <a href="mailto:Saranshjain840@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -51,21 +55,6 @@ I'm a CS student at TU Darmstadt with ~1.5 years of hands-on experience in **ful
 
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=flat&logo=testing-library&logoColor=white)
-
----
-
-## 💼 Experience
-
-**Software Developer (Werkstudent)** — SD-Con GmbH, Kaufbeuren *(Nov 2025 – Present)*
-- Built enterprise apps with **Intrexx**, digitized internal workflows
-- Implemented backend logic in **Java & Groovy**
-- Worked in Agile/Scrum with sprint planning & code reviews
-
-**Junior Developer (Werkstudent)** — Zeitform internet Dienste, Darmstadt *(Aug 2024 – Nov 2025)*
-- Validated CI/CD pipelines and automated server configs with **Ansible**
-- Standardized Git workflows incl. hooks, quality checks & deployments
-- Managed **MySQL** databases and optimized queries
-- Wrote **Bash scripts** to automate Linux deployments
 
 ---
 
